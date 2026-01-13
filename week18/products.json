@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "name": "Sourdough Bread",
+      "description": "Traditional 72-hour fermented sourdough",
+      "price": 8.99,
+      "category": "Bread",
+      "stock": 50
+    },
+    {
+      "product_id": 2,
+      "name": "Whole Wheat Loaf",
+      "description": "Healthy bread with mixed grains and seeds",
+      "price": 9.25,
+      "category": "Bread",
+      "stock": 35
+    },
+    {
+      "product_id": 3,
+      "name": "Ciabatta Roll",
+      "description": "Italian white bread with crispy crust",
+      "price": 7.50,
+      "category": "Bread",
+      "stock": 40
+    },
+    {
+      "product_id": 4,
+      "name": "Baguette",
+      "description": "French baguette with golden crust",
+      "price": 6.75,
+      "category": "Bread",
+      "stock": 45
+    },
+    {
+      "product_id": 5,
+      "name": "Multigrain Bread",
+      "description": "Nutritious bread with 7 different grains",
+      "price": 10.50,
+      "category": "Bread",
+      "stock": 30
+    }
+  ],
+  "metadata": {
+    "last_updated": "2024-01-15",
+    "currency": "AUD",
+    "delivery_fee": 5.00
+  }
+}
